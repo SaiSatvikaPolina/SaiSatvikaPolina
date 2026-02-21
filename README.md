@@ -77,7 +77,7 @@ I enjoy working with data pipelines, predictive modeling, and visualization, and
 | Platform / Provider | Certifications | Date |
 |--------------------|----------------|------|
 | **ServiceNow** | Certified System Administrator, Certified Application Developer | July 2025 |
-| **Salesforce** | Certified Platform Developer 1, Certified Ai Associate, Certified Agentforce Specialist |
+| **Salesforce** | Certified Platform Developer 1, Certified Ai Associate, Certified Agentforce Specialist | Oct 2025 , Dec 2024 |
 | **NPTEL**       | Python for Data Science, Programming in Java | Aug 2023 ,  Jan 2024 |
 | **Oracle**      | Certified Foundations Associate | July 2025 |
 | **Infosys**     | Basics of Python - SpringBoard | Apr - Mar 2023 |
